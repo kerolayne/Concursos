@@ -46,11 +46,11 @@ Está sendo disponibilizado o cronograma do concurso para um melhor acompanhamen
 
 |  |  |
 |------------------------|---------------|
-| Inscrições | 08/02 a 05/03 |
-| Solicitação de isenção | 08/02 a 15/03 |
-| Cartões | 04/04 |
-| Provas Objetivas | 08/04 |
-| Gabaritos | 09/04 |
-| Resultado Final | 28\/06 |
+| Inscrições | 08 de Fevereiro  a 05 de Março |
+| Solicitação de isenção | 08 de Fevereiro a 15 de Março |
+| Cartões | 04 de Abril |
+| Provas Objetivas | 08 de Abril |
+| Gabaritos | 09 de Abril |
+| Resultado Final | 28 de Junho |
 
 *Todas as datas são para o ano atual (2018)
