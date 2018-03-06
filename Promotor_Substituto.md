@@ -44,11 +44,12 @@ o local serão divulgados no portal do [Ministério Público de Minas Gerais](ht
 A 5ª etapa do concurso será a Avaliação de Títulos, as quais se refere a comprovação de todos os documentos entregues.
 
 Segue abaixo um Cronograma para maior compreensão:
+
 | Cronograma |  |
 |-------------------------------|----------------------|
-| Inscrições | 02/04/18 |
-| Pedidos de isenção | 08/03/18 |
-| Emissão de 2 via de Pagamento | 03/04/18 |
-| 1ª Etapa de Prova | 06/05/18 , 8h-12h |
-| 2ª Etapa de Prova | 30\/06/16 e 01/07/18 |
+| Inscrições | 02 de Abril |
+| Pedidos de isenção | 08 de Março |
+| Emissão de 2 via de Pagamento | 03 de Abril |
+| 1ª Etapa de Prova | 06 de Maio , das 8h as 12h |
+| 2ª Etapa de Prova | 30 de Junho e 01 de Julho |
 
