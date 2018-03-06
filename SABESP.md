@@ -39,12 +39,13 @@ A 3ª etapa é onde ocorre a comprovação médica e aptidão física, o inscrit
 Na 4ª etapa o aprovado deve levar todos os documentos solicitados pelo [Edital](http://www.concursosfcc.com.br/concursos/sabes317/edital_empregados_sabesp_27fev_fcc.pdf) para a admissão do mesmo.
 
 Logo abaixo será disponibilizado o cronograma do concurso com as principais datas decorrentes:
+
 | Data Prevista | Atividade                                                |
 |---------------|----------------------------------------------------------|
-| 01/03/2018    | Abertura das Inscrições.                                 |
-| 26\/03/2018    | Encerramento do período de Inscrições.                   |
-| 06/05/2018    | Aplicação das Provas Objetivas.                          |
-| 07/06/2018    | Publicação do Resultado Preliminar das Provas Objetivas. |
-| 19\/06/2018    | Publicação do Resultado Final das Provas Objetivas.      |
+| 01 de Março    | Abertura das Inscrições.                                 |
+| 26 de Março    | Encerramento do período de Inscrições.                   |
+| 06 de Abril    | Aplicação das Provas Objetivas.                          |
+| 07 de Junho    | Publicação do Resultado Preliminar das Provas Objetivas. |
+| 19 de Junho    | Publicação do Resultado Final das Provas Objetivas.      |
 
 
