@@ -43,12 +43,14 @@ De acordo com o [Edital](http://www.petrobras.com.br/lumis/portal/file/fileDownl
 A prova será objetiva e de etapa única, a qual, possui 60 questões para o nível médio, onde 20 questões são de conhecimentos básicos de português e de matemática e 40 questões específicas. Para o nível superior são realizadas 70 questões, as quais, 20 são questões de conhecimentos básicos de português e de matemática e 50 questões específicas.
 
 Está sendo disponibilizado o cronograma do concurso para um melhor acompanhamento:
+
 |  |  |
 |------------------------|---------------|
 | Inscrições | 08/02 a 05/03 |
-| Solicitação de isenção | 08/02 a 15\/03 |
+| Solicitação de isenção | 08/02 a 15/03 |
 | Cartões | 04/04 |
 | Provas Objetivas | 08/04 |
 | Gabaritos | 09/04 |
 | Resultado Final | 28\/06 |
+
 *Todas as datas são para o ano atual (2018)
