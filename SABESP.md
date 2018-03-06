@@ -30,7 +30,7 @@ Os salários iniciais vão de R$1.854,54 para Agente de Saneamento Ambiental at�
 
 A 1ª etapa do concurso público constará de prova objetiva, de caráter eliminatório e classificatório, a prova é composta de 40 questões para o nível de ensino fundamental e chegando a 50 questões em nível superior, médio e técnico.
 
-A aplicação da Prova Objetiva está prevista para o dia 06/05, e será realizada nas cidades correspondentes em sua inscrição, de acordo com a opção do candidato.
+A aplicação da Prova Objetiva está prevista para o dia 06 de Maio, e será realizada nas cidades correspondentes em sua inscrição, de acordo com a opção do candidato.
 
 A 2ª etapa é a comprovação de requisitos, onde o aprovado pela primeira fase deve comprovar autenticidade de todos os seus documentos exigidos pelo [Edital](http://www.concursosfcc.com.br/concursos/sabes317/edital_empregados_sabesp_27fev_fcc.pdf)
 
