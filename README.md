@@ -12,4 +12,4 @@ Artigos relacionados a Concursos Públicos.
   - [Companhia de Saneamento Basico de São Paulo (Sabesp) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/SABESP.md)
   - [Empresa Brasileira de Serviços Hospitalares (EBSERH) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/EBSERH.md)
   - [Departamento Penitenciário (Depen) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/DEPEN.md)
-  - [Marinha Brasileira Contest](https://github.com/GuilhermeBianeck/Concursos/blob/master/MarinhaBrasileira.md)
+  - [Marinha Brasileira Contest](https://github.com/GuilhermeBianeck/Concursos/blob/master/MarinhaBrasileira.md).
