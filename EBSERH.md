@@ -4,7 +4,7 @@ A [EBSERH - Empresa Brasileira de Serviços Hospitalares](http://www.ebserh.gov.
 
  Os hospitais universitários são referência na saúde pública brasileira e estão constantemente recebendo auxílios do Governo Federal para a manutenção dos mesmos. A rede é composta por cerca de 50 Hospitais Universitários que se encontram amplamente distribuídos por todo o território nacional. Estes hospitais universitários também são de suma importância para o aprendizado dos acadêmicos, os hospitais universitários são amplamente usados para estudos de procedimentos e ética no trabalho, aplicando assim, o conhecimento dos estudantes em métodos práticos com o auxílio de pessoas devidamente qualificadas. 
  
-A [EBSERH - Empresa Brasileira de Serviços Hospitalares](http://www.ebserh.gov.br/) está ofertando as vagas nos diversos hospitais universitários do Brasil, são eles:
+A [EBSERH - Empresa Brasileira de Serviços Hospitalares](http://www.ebserh.gov.br/) estará ofertando as vagas nos diversos hospitais universitários do Brasil, são eles:
 
 | Nº | Hospital Beneficiário                                                                                       |
 |----|-------------------------------------------------------------------------------------------------------------|
