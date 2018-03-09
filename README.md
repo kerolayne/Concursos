@@ -11,3 +11,4 @@ Artigos relacionados a Concursos Públicos.
   - [Temporary Charges at Força Aérea Brasileira (FAB) Inscrition Details.](https://github.com/GuilhermeBianeck/Concursos/blob/master/FAB.md)
   - [Companhia de Saneamento Basico de São Paulo (Sabesp) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/SABESP.md)
   - [Empresa Brasileira de Serviços Hospitalares (EBSERH) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/EBSERH.md)
+  - [Departamento Penitenciário (Depen) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/DEPEN.md)
