@@ -21,12 +21,13 @@ O cadastro deve ser realizado obrigatoriamente através do site da [Cesgranrio](
 
   
 As provas exigirão diversos conhecimentos, segue abaixo uma tabela para melhor compreensão de todo o conteúdo cobrado na prova:
+
 | Conhecimentos Básicos             | Conhecimentos Específicos                |
 |-----------------------------------|------------------------------------------|
 | Língua Portuguesa                 | Probabilidade E Estatística              |
 | Língua Inglesa                    | Conhecimentos Bancários                  |
 | Matemática                        | Conhecimentos De Informática : Avançados |
-| Atualidades Do Mercado Financeiro |        
+| Atualidades Do Mercado Financeiro |                                          |
 
 
 
