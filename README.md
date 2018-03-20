@@ -18,4 +18,4 @@ Artigos relacionados a Concursos Públicos.
   - [Banco do Brazil Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/bb.md)
   - [Banpara Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/Banpara.md)
   - [Juiz Leigo Tribunal de Justiça do Rio de Janeiro Public Contest(TJ-RJ).](https://github.com/GuilhermeBianeck/Concursos/blob/master/juizleigorj.md)
-  - [Universidade Federal do Estado de Pernambuco (UFPRE) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/ufpre.md)
+  - [Universidade Federal do Estado de Pernambuco (UFPRE) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/ufrpe.md)
