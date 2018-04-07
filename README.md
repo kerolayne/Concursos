@@ -1,13 +1,13 @@
-﻿# Concursos
+# Contests
 
-Articles related to Public Contests in Brazil.
+Articles Related to Public Contests in Brazil.
 
-Artigos relacionados a Concursos Públicos.
+Artigos Relacionados a Concursos Públicos no Brasil.
 
 ## Already Done
 
-  1. [Petrobras Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/Petrobras_Concursos.md)
-  2. [Substitute prosecutor at Ministério Público de Minas Gerais(MPMG) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/Promotor_Substituto.md)
+  1. [Petrobras (PTR) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/Petrobras_Concursos.md)
+  2. [Substitute prosecutor at Ministério Público de Minas Gerais (MPMG) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/Promotor_Substituto.md)
   3. [Temporary Charges at Força Aérea Brasileira (FAB) Inscrition Details.](https://github.com/GuilhermeBianeck/Concursos/blob/master/FAB.md)
   4. [Companhia de Saneamento Basico de São Paulo (Sabesp) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/SABESP.md)
   5. [Empresa Brasileira de Serviços Hospitalares (EBSERH) Public Contest.](https://github.com/GuilhermeBianeck/Concursos/blob/master/EBSERH.md)
